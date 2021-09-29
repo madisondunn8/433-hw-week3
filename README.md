@@ -3,6 +3,8 @@ hw week 3
 Madison Dunn
 9/28/2021
 
+Github link: <https://github.com/madisondunn8/433-hw-week3>
+
 1.  How many flights have a missing dep\_time? What other variables are
     missing? What might these rows represent?
 
