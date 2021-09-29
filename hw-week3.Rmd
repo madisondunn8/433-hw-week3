@@ -2,11 +2,10 @@
 title: "hw week 3"
 author: "Madison Dunn"
 date: "9/28/2021"
-output: github_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
 library(nycflights13)
 library(ggplot2)
 library(dplyr)
