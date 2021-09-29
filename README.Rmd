@@ -2,7 +2,7 @@
 title: "hw week 3"
 author: "Madison Dunn"
 date: "9/28/2021"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
