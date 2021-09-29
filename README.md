@@ -1,14 +1,10 @@
-Github repo: https://github.com/madisondunn8/433-hw-week3
+HW Week 3
+Madison Dunn
 
----
-title: "hw week 3"
-author: "Madison Dunn"
-date: "9/28/2021"
-output: github_document
----
+Github link: https://github.com/madisondunn8/433-hw-week3
+
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
 library(nycflights13)
 library(ggplot2)
 library(dplyr)
