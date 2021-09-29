@@ -1,5 +1,7 @@
-HW Week 3
+hw3
+================
 Madison Dunn
+9/28/2021
 
 Github link: https://github.com/madisondunn8/433-hw-week3
 
