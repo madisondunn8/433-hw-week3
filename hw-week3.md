@@ -1,3 +1,5 @@
+Github repo: https://github.com/madisondunn8/433-hw-week3
+
 ---
 title: "hw week 3"
 author: "Madison Dunn"
