@@ -1,5 +1,5 @@
 ---
-title: "hw week 3"
+title: "HW week 3"
 author: "Madison Dunn"
 date: "9/28/2021"
 output: github_document
